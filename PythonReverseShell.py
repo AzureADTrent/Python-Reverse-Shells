@@ -3,7 +3,7 @@ import subprocess
 import os
 
 # A list of commonly available shells
-shells = ['/bin/bash', '/bin/sh', '/bin/ash', '/bin/zh']
+shells = ['/bin/bash', '/bin/sh', '/bin/ash', '/bin/zsh']
 
 # Try each shell until one is found
 shell = None
